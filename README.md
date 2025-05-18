@@ -5,7 +5,7 @@
 This work is part of my masters thesis that can be seen in full [https://github.com/AmbryTheBlue/ambrojak_diplomka](https://github.com/AmbryTheBlue/ambrojak_diplomka)
 
 ### Orientation
-If you are reading this in private [Metrans' private gitlab](https://gitlab.cloud.codenow.com/codenow/metrans-cz/order-anomaly-detection) the files here are here in full and should be runnable in JupyterHub. If you are located in [https://github.com/AmbryTheBlue/ambrojak_diplomka_code](public GitHub repository) please not that there have been several redactions to obscure the access to the database, and specific table and column names.
+If you are reading this in private [Metrans' private gitlab](https://gitlab.cloud.codenow.com/codenow/metrans-cz/order-anomaly-detection) the files here are here in full and should be runnable in JupyterHub. If you are located in [public GitHub repository](https://github.com/AmbryTheBlue/ambrojak_diplomka_code) please note that there have been several redactions to obscure the access to the database, and specific table and column names.
 
 * src/preprocessors folder has custom TextPreprocessor and TargetColumnPreprocessor
 * src/oodd_detectors includes several iterations of attempts at FBOD classifier, the most recommended (and most recent) are in counter_OODD.py
