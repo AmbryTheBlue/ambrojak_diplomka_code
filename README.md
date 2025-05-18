@@ -2,7 +2,7 @@
 ### Misclassification Detection, Confidence-Based Anomaly Detection and Frequency-Based Outlier Detection with Back-off Smoothing in Textual Tabular Data
 ## Bc. Jakub Ambroz
 
-This work is part of my diploma thesis that can be seen in full [https://github.com/AmbryTheBlue/ambrojak_diplomka](https://github.com/AmbryTheBlue/ambrojak_diplomka)
+This work is part of my masters thesis that can be seen in full [https://github.com/AmbryTheBlue/ambrojak_diplomka](https://github.com/AmbryTheBlue/ambrojak_diplomka)
 
 ### Orientation
 If you are reading this in private [Metrans' private gitlab](https://gitlab.cloud.codenow.com/codenow/metrans-cz/order-anomaly-detection) the files here are here in full and should be runnable in JupyterHub. If you are located in [https://github.com/AmbryTheBlue/ambrojak_diplomka_code](public GitHub repository) please not that there have been several redactions to obscure the access to the database, and specific table and column names.
